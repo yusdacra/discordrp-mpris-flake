@@ -1,0 +1,36 @@
+{
+  "_generic": {
+    "defaultPackage": "main",
+    "invalidationHash": "8968e085a9b01fea87464bb2aafac2dc188919960c897620eb9424c4c737327c",
+    "location": "",
+    "packages": {
+      "main": "0.3.3"
+    },
+    "sourcesAggregatedHash": null,
+    "subsystem": "python"
+  },
+  "_subsystem": {
+    "application": false,
+    "pythonAttr": "python310",
+    "sourceFormats": {
+      "DBussy": "wheel",
+      "pytoml": "wheel"
+    }
+  },
+  "sources": {
+    "DBussy": {
+      "1.3": {
+        "hash": "sha256-URz0x2ucgvoIB16+4B65Mx/hJ3QE+rUpJKCD2a4/YrM=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py35/D/DBussy/DBussy-1.3-py35-none-any.whl"
+      }
+    },
+    "pytoml": {
+      "0.1.21": {
+        "hash": "sha256-V6IeY0cEn3O/tiAR/zTNcndMAxuYKMtiinUiJRNt/DM=",
+        "type": "http",
+        "url": "https://files.pythonhosted.org/packages/py2.py3/p/pytoml/pytoml-0.1.21-py2.py3-none-any.whl"
+      }
+    }
+  }
+}
