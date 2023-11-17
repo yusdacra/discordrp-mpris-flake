@@ -108,16 +108,16 @@
     "src": {
       "flake": false,
       "locked": {
-        "lastModified": 1658082819,
-        "narHash": "sha256-o4utv6yhDoE1iVFkwRKWZZLGQUCAPL/2Pz58SBVZZhM=",
-        "owner": "FichteFoll",
-        "repo": "discordrp-mpris",
-        "rev": "911aa5a9ce21bee059389631f24e105883a4ad48",
+        "lastModified": 1671122716,
+        "narHash": "sha256-LWOCoodv45fEV77rUJAQEJzlrcSK15ZEsv5EBY9IBYI=",
+        "owner": "SergSel2006",
+        "repo": "discordrp-mpris-albumart",
+        "rev": "3f78067e5873650607b8bae24465c89559aa4a98",
         "type": "github"
       },
       "original": {
-        "owner": "FichteFoll",
-        "repo": "discordrp-mpris",
+        "owner": "SergSel2006",
+        "repo": "discordrp-mpris-albumart",
         "type": "github"
       }
     }
